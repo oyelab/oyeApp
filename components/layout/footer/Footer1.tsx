@@ -9,8 +9,10 @@ export default function Footer1() {
 						<div className="container position-relative z-2">
 							<div className="row py-90">
 								<div className="col-lg-4 pe-10" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
-									<p className="text-white fw-medium mt-3 mb-6 opacity-50">You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.</p>
+									<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" width={150} alt="infinia" /></Link>
+									<p className="text-white fw-medium mt-3 mb-6 opacity-50">
+										We transform bold ideas into powerful, high-performance applications. With a relentless focus on efficiency and precision, we harness the latest technologies to create solutions that not only meet but exceed expectations — driving success and growth for your business.
+									</p>
 									<div className="d-flex social-icons">
 										<Link href="https://www.facebook.com/" className=" text-white border border-end-0 border-light border-opacity-10 icon-shape icon-md">
 											<svg xmlns="http://www.w3.org/2000/svg" width={10} height={17} viewBox="0 0 10 17" fill="none">
@@ -76,7 +78,8 @@ export default function Footer1() {
 								</div>
 							</div>
 							<div className="row text-center py-4 border-top border-white border-opacity-10">
-								<span className="text-white opacity-50" data-aos="fade-zoom-in" data-aos-delay={200}>Copyright © 2024 Infinia. All Rights Reserved</span>
+								<span className="text-white opacity-50" data-aos="fade-zoom-in" data-aos-delay={200}>Copyright © 
+									{new Date().getFullYear()} Oyelab. All Rights Reserved</span>
 							</div>
 						</div>
 					</div>

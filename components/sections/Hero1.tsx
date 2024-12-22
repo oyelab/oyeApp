@@ -9,16 +9,16 @@ export default function Hero1() {
 					<div className="row content align-items-center">
 						<div className="col-lg-6 col-md-12 mb-lg-0 mb-5">
 							<div className="pe-2">
-								<Link href="#" className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1">
-									<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">New</span>
-									<span className="fs-7 fw-medium text-primary mx-2">Free Lifetime Update</span>
+								<Link href="https://wingssportswear.shop" className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1">
+									<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Latest Project</span>
+									<span className="fs-7 fw-medium text-primary mx-2">Wings Sportswear</span>
 									<svg xmlns="http://www.w3.org/2000/svg" width={18} height={19} viewBox="0 0 18 19" fill="none">
 										<path d="M10.3125 5.5625L14.4375 9.5L10.3125 13.4375" stroke="#6342EC" strokeWidth="1.125" strokeLinecap="round" strokeLinejoin="round" />
 										<path d="M14.25 9.5H3.5625" stroke="#6342EC" strokeWidth="1.125" strokeLinecap="round" strokeLinejoin="round" />
 									</svg>
 								</Link>
-								<h3 className="ds-3 mt-4 mb-5" data-aos="fade-zoom-in" data-aos-delay={0}>Boost your project's speed and efficiency.</h3>
-								<p className="pe-10 mb-5" data-aos="fade-zoom-in" data-aos-delay={200}>Access top-tier group mentoring plans and exclusive professional benefits for your team.</p>
+								<h3 className="ds-3 mt-4 mb-5" data-aos="fade-zoom-in" data-aos-delay={0}>We Write the Future in Statements.</h3>
+								<p className="pe-10 mb-5" data-aos="fade-zoom-in" data-aos-delay={200}>Turning ideas into impactful, next-gen smarter solutions.</p>
 								<Link href="/page-services-1" className="btn btn-gradient" data-aos="fade-zoom-in" data-aos-delay={300}>
 									Explore Now
 									<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -54,26 +54,20 @@ export default function Hero1() {
 							</div>
 						</div>
 						<div className="col-lg-6 position-relative justify-content-center">
-							<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="infinia" />
-							<div className="shape-1 position-absolute">
-								<img className="rightToLeft" src="/assets/imgs/hero-1/shape-1.png" alt="infinia" data-aos="zoom-in" data-aos-delay={500} />
-							</div>
-							<div className="shape-2 position-absolute d-none d-md-block">
-								<img src="/assets/imgs/hero-1/shape-2.png" alt="infinia" data-aos="zoom-in" data-aos-delay={200} />
-							</div>
-							<div className="shape-3 position-absolute d-none d-md-block">
-								<img src="/assets/imgs/hero-1/shape-3.png" alt="infinia" data-aos="zoom-in" data-aos-delay={300} />
-							</div>
+							<img className="hero-img" src="/assets/imgs/hero-1/wings-mockup-1.png" alt="infinia" />
+
+
+
 							<div className="alltuchtopdown card-hero backdrop-filter rounded-3 text-center d-inline-block p-3 position-absolute">
-								<img className="rounded-3" src="/assets/imgs/hero-1/shape-4.png" alt="infinia" />
-								<h6 className="mt-3">Book A Call</h6>
+								<img className="rounded-3" src="/assets/imgs/hero-1/shape-4.svg" width={200} alt="infinia" />
+								<h6 className="mt-3">Any Query?</h6>
 								<p className="fs-7 text-700">
-									Customer activity can be easily <br />
-									tracked with one click
+									We're here to create solutions<br />
+									that elevate your experience.
 								</p>
 								<Link href="#" className="shadow-sm d-flex align-items-center bg-white d-inline-flex rounded-pill px-2 py-1 mb-3">
-									<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
-									<span className="fs-7 fw-medium text-primary mx-2">Free Update</span>
+									<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Ask</span>
+									<span className="fs-7 fw-medium text-primary mx-2">Anything, Anytime</span>
 									<svg xmlns="http://www.w3.org/2000/svg" width={18} height={19} viewBox="0 0 18 19" fill="none">
 										<path d="M10.3125 5.5625L14.4375 9.5L10.3125 13.4375" stroke="#6D4DF2" strokeWidth="1.125" strokeLinecap="round" strokeLinejoin="round" />
 										<path d="M14.25 9.5H3.5625" stroke="#6D4DF2" strokeWidth="1.125" strokeLinecap="round" strokeLinejoin="round" />
