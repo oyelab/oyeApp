@@ -62,8 +62,8 @@ export default function Features1() {
 										<img src="/assets/imgs/features-1/icon-1.svg" alt="infinia" />
 									</div>
 								</div>
-								<h6>Work organization</h6>
-								<p>A business consultant provides expert advice and guidance to businesses on various aspects.</p>
+								<h6>Fullstack Development</h6>
+								<p>Develop both frontend and backend solutions for complete applications.</p>
 							</div>
 						</div>
 						<div className="col-lg-3 col-md-6" data-aos="fade-zoom-in" data-aos-delay={100}>
@@ -73,8 +73,8 @@ export default function Features1() {
 										<img src="/assets/imgs/features-1/icon-2.svg" alt="infinia" />
 									</div>
 								</div>
-								<h6>Strategy Development</h6>
-								<p>Business consultants play a crucial role by offering expert advice and guidance to companies</p>
+								<h6>Modern UI/UX</h6>
+								<p>Create intuitive and visually appealing user interfaces.</p>
 							</div>
 						</div>
 						<div className="col-lg-3 col-md-6" data-aos="fade-zoom-in" data-aos-delay={200}>
@@ -84,8 +84,8 @@ export default function Features1() {
 										<img src="/assets/imgs/features-1/icon-3.svg" alt="infinia" />
 									</div>
 								</div>
-								<h6>Data analytics</h6>
-								<p>Consultants provide invaluable expertise to businesses, assisting them with strategic advice</p>
+								<h6>Progressive Web Apps (PWA)</h6>
+								<p>Build fast, reliable web apps with offline support and push notifications.</p>
 							</div>
 						</div>
 						<div className="col-lg-3 col-md-6" data-aos="fade-zoom-in" data-aos-delay={300}>
@@ -95,8 +95,8 @@ export default function Features1() {
 										<img src="/assets/imgs/features-1/icon-4.svg" alt="infinia" />
 									</div>
 								</div>
-								<h6>Business Intelligence </h6>
-								<p>Through their deep understanding of industry trends and best practices, consultants empower organizations</p>
+								<h6>AI-Powered Personalization</h6>
+								<p>Use AI to tailor user experiences and recommendations.</p>
 							</div>
 						</div>
 					</div>

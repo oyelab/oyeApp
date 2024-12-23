@@ -50,14 +50,14 @@ export default function SectionProjects() {
 	return (
 		<>
 
-			<Layout >
+			<Layout headerStyle={1} footerStyle={1}>
 
 				<section className="section-page-header py-10 fix position-relative">
 					<div className="container position-relative z-1">
 						<div className="text-start">
 							<h3>Projects</h3>
 							<div className="d-flex">
-								<Link href="#">
+								<Link href="/">
 									<p className="mb-0 text-900">Home</p>
 								</Link>
 								<svg className="mx-3 mt-1" xmlns="http://www.w3.org/2000/svg" width={8} height={13} viewBox="0 0 8 13" fill="none">

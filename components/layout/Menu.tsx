@@ -12,13 +12,18 @@ export default function Menu() {
 							Home
 						</Link>
 					</li>
+					<li className="nav-item">
+						<Link className="nav-link fw-bold d-flex align-items-center" href="page-services-1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							Services
+						</Link>
+					</li>
 					<li className="nav-item ">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						<Link className="nav-link fw-bold d-flex align-items-center" href="section-features" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Initiatives
 						</Link>
 					</li>
 					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						<Link className="nav-link fw-bold d-flex align-items-center" href="section-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Portfolio
 						</Link>
 					</li>
