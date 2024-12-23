@@ -16,9 +16,6 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
     title: "Oyelab - Idea to Impact",
     description: "Stay agile in the ever-evolving digital space to deliver impactfull solutions",
-	icons: {
-		icon: "assets/icons/favicon.ico", // Default favicon
-	  },
 }
 
 export default function RootLayout({
