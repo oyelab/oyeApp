@@ -32,4 +32,5 @@
 }
 .carouselTicker__item img {
     vertical-align: top;
+	height: 50px;
 }
